@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#14B8A6" stroke-width="2"/>
+  <text x="50" y="45" text-anchor="middle" fill="#14B8A6" font-size="16">ISO</text>
+  <text x="50" y="65" text-anchor="middle" fill="#14B8A6" font-size="12">27001</text>
+</svg>
